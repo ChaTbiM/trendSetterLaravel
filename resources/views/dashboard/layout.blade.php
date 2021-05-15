@@ -120,7 +120,6 @@
 
 <script>
      function openNav() {
-            console.log('opened')
             document.getElementById("myNav").style.width = "100%";
         }
 
